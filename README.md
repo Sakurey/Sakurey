@@ -1,1 +1,1 @@
-![Background](Background.jpg)
+![Background](BG2.png)
